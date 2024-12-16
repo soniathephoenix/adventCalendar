@@ -1,9 +1,5 @@
 https://adventcalendarnutritionfacts.netlify.app
 
-Based on the provided code, here’s a professional and employer-impressive README for your GitHub project:
-
----
-
 # Advent Calendar
 
 A beautifully designed interactive Advent Calendar built with **HTML**, **CSS**, and **JavaScript**. Each day of the calendar reveals a unique health and nutrition tip, offering users valuable insights while spreading the festive cheer.
