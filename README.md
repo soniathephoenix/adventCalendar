@@ -33,7 +33,7 @@ A beautifully designed interactive Advent Calendar built with **HTML**, **CSS**,
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/advent-calendar.git
+   git clone https://github.com/soniathephoenix/adventCalendar.git
    cd advent-calendar
    ```
 
@@ -47,10 +47,12 @@ A beautifully designed interactive Advent Calendar built with **HTML**, **CSS**,
 ## 📸 Screenshots
 
 ### Full Calendar View
-![Full Calendar Screenshot](link-to-screenshot)
+<img width="1507" alt="Screenshot 2024-12-16 at 14 37 36" src="https://github.com/user-attachments/assets/da6a7e2a-ce9c-468c-81c0-8732fcc713a2" />
+
 
 ### Day Reveal Example
-![Day Reveal Screenshot](link-to-screenshot)
+<img width="567" alt="Screenshot 2024-12-16 at 14 38 48" src="https://github.com/user-attachments/assets/e4a5be45-3222-4321-adf3-5ba6dc320557" />
+
 
 ## 🎄 Future Enhancements
 
